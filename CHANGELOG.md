@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-service-usage/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#74](https://github.com/googleapis/python-service-usage/issues/74)) ([c9cf774](https://github.com/googleapis/python-service-usage/commit/c9cf774ba8082ce7026acd582817e84b63d39fbe))
+
 ### [1.2.1](https://www.github.com/googleapis/python-service-usage/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
